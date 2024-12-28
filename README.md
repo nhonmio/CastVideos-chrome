@@ -1,4 +1,4 @@
-# CastVideos-chrome (reference Chrome sender app)
+CastVideos-chrome (reference Chrome sender app)
 
 This Google Cast demo app shows how to cast videos from a Chrome browser using Cast Chrome Sender SDK. It serves to demonstrate how to write a HTML5/Javascript Cast sender app that is fully compliant with the Design Checklist.
 
